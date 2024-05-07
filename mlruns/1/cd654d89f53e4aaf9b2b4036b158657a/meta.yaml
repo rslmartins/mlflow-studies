@@ -1,0 +1,16 @@
+artifact_uri: file:///home/rodrigo/Desktop/Projects/mlflow-studies/mlruns/1/cd654d89f53e4aaf9b2b4036b158657a/artifacts
+deleted_time: 1662825545130
+end_time: 1662825382138
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+name: ''
+run_id: cd654d89f53e4aaf9b2b4036b158657a
+run_uuid: cd654d89f53e4aaf9b2b4036b158657a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1662825378091
+status: 3
+tags: []
+user_id: rodrigo
